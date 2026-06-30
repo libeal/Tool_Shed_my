@@ -1,8 +1,7 @@
-# DEL_documen 
-用于删除那些被占用文件的bat脚本，为避免过多捆绑制作  
-仅限windows使用，为了方便在使用vscode时删文件，当然平时用也行
-## 使用方法
-下载DEL.bat  
-确保已安装[handle.exe](https://learn.microsoft.com/en-us/sysinternals/downloads/handle)  
-点击使用或者通过cmd/powershell调用  
-输入文件地址进行删除
+# 一个存放小工具的仓库
+### DEL - 用于解除windows进程锁定强行删除文件用的
+如果把windows都停了,请esc+shift+ctrl救急
+### PNG as PDF - 用于将文件夹里面的图片全部弄进一份pdf文件
+如果希望排好顺序,给文件按顺序命名(1.jpg  2.jpg  ..)
+### Extractor - 用于提取学习通里面已完成的作业
+放入工作台可使用,调一下注释能带答案
