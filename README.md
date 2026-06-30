@@ -1,6 +1,6 @@
 # 一个存放小工具的仓库
 ### DEL - 用于解除windows进程锁定强行删除文件用的
-如果把windows都停了,请esc+shift+ctrl救急
+如果把windows都停了,请ctrl+shift+esc救急
 ### PNG_as_PDF - 用于将文件夹里面的图片全部弄进一份pdf文件
 如果希望排好顺序,给文件按顺序命名(1.jpg  2.jpg  ..)
 ### Extractor - 用于提取学习通里面已完成的作业
